@@ -4,7 +4,7 @@ import pylab as pl
 import numpy as np
 from sklearn import linear_model
 from sklearn.metrics import r2_score
-# %matplotlib inline
+
 
 path = "FuelConsumptionCo2.csv"
 
